@@ -14,9 +14,9 @@ Hệ thống quản lý khách sạn giúp bạn dễ dàng quản lý quy trìn
 ![UserFlow](https://github.com/user-attachments/assets/7cb3a11b-da8b-4360-97d4-90cefef67bac)
 
 ## Công nghệ sử dụng
-- **Ngôn ngữ lập trình**: JavaScript, Python
-- **Framework**: React (front-end), Django (back-end)
-- **Cơ sở dữ liệu**: PostgreSQL
+- **Ngôn ngữ lập trình**: JavaScript, Java
+- **Framework**: React (front-end), Spring Boot (back-end)
+- **Cơ sở dữ liệu**: MySQL
 - **Công nghệ khác**: CSS, HTML, Bootstrap
 - 
 
